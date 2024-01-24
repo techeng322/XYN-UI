@@ -14,15 +14,6 @@ module.exports = {
     colors: {
       white: '#ffffff',
       black: '#000000',
-      gray_1: "#F6F6F6",
-      gray_2: "#E4E4E4",
-      gray_3: "#CDCDCD",
-      gray_5: "#8C8C8C",
-      gray_6: '#767676',
-      gray_8: '#1F1F1F',
-      link: '#2A64F5',
-      success: "#35C75A",
-      error_500: "#CA462A"
     },
     container: {
       center: true,
@@ -44,7 +35,6 @@ module.exports = {
       },
     },
     boxShadow: {
-      'gray_shadow': '0px 4px 6px -2px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08), 0px 4px 4px 0px rgba(0, 0, 0, 0.25)'
     }
   },
   variants: {
