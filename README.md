@@ -1,5 +1,5 @@
 # Buenos Aires Song Camp UI
-- powered by [Optimism](https://www.optimism.io/) & [Zora](https://zora.co/)
+powered by [Optimism](https://www.optimism.io/) & [Zora](https://zora.co/)
 
 ## Getting Started
 
