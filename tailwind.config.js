@@ -20,7 +20,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        hedvig: ["Hedvig Regular", "sans-serif"]
+        robot_flex: ["Robot Flex Regular", "sans-serif"]
       },
       screens: {
         ios : '320px',

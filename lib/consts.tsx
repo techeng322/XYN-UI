@@ -1,3 +1,3 @@
-export const SEO_TITLE = "BUENOS AIRES | SONG CAMP"
-export const SEO_DESCRIPTION = "SONG CAMP"
-export const SEO_IMAGE = "/images/logo.png"
+export const SEO_TITLE = "XYN"
+export const SEO_DESCRIPTION = "XYN UI"
+export const SEO_IMAGE = "/images/logo.svg"
