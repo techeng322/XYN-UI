@@ -20,7 +20,8 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        hedvig: ["Hedvig Regular", "sans-serif"]
+        robot_flex: ["Robot Flex Regular", "sans-serif"],
+        rugen_expanded: ["Rugen Expanded", "sans-serif"],
       },
       screens: {
         ios : '320px',

@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "Robot Flex Regular";
+  src: url("/fonts/Robot Flex/RobotoFlex-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Rugen Expanded";
+  src: url("/fonts/Rugen Expanded/rugenexpanded.otf") format("truetype");
+}
+
 @layer utilities {
   .no-scrollbar::-webkit-scrollbar {
     display: none;
